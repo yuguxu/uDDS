@@ -1,0 +1,5 @@
+struct UserDataType{
+        string data;
+	string md5;
+};
+
